@@ -26,7 +26,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Demo
 
-![GIF]()
+![GIF](https://media.giphy.com/media/Jy9bM0zSlL6tnjlT4u/giphy.gif)
 
 ## Questions
 
