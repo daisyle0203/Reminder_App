@@ -24,9 +24,9 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## Demo
+## Screenshot
 
-![GIF](https://media.giphy.com/media/Jy9bM0zSlL6tnjlT4u/giphy.gif)
+![GIF](https://media.giphy.com/media/3ggM1dgYBA13ZCeeOL/giphy.gif)
 
 ## Questions
 
