@@ -10,7 +10,7 @@ function TaskDetails() {
 
   useEffect(() => {
     const fetchTask = async () => {
-      const res = await fetch(`http://localhost:50050/tasks/${params.id}`)
+      const res = await fetch(`http://localhost:5005/tasks/${params.id}`)
 
       const data = await res.json()
 
